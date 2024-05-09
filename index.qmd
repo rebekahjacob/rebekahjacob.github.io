@@ -2,4 +2,10 @@
 title: "Welcome!"
 ---
 
-`![RJDS]('Rebekah Simple 2_bw.png')`
+I think about data **A LOT**!
+
+Much work goes into planning and executing research and community programs. Why waste all that effort with mismatched or poorly designed data infrastructure?
+
+My expertise is in planning for robust data collection, management, analysis---which when linked to strong evaluation or research questions, give **ACTIONABLE** results.
+
+![](logo.png)
