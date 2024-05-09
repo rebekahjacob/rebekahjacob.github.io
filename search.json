@@ -4,13 +4,13 @@
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "![RJDS](Rebekah Simple 2_bw.png)\nThis is just testing."
+    "text": "![RJDS]('Rebekah Simple 2_bw.png')"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site"
   }
 ]
